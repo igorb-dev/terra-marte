@@ -1,0 +1,77 @@
+.Address {
+    min-height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+    .container-header-buttons {
+        z-index: 10000;
+        width: 90%;
+        max-width: 1100px;
+        margin: -70px auto 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .popup {
+        position: fixed;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: red;
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+    }
+    
+    .popup p {
+        margin: 0;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .container-input{
+        width: 60%;
+    }
+
+    .container-select{
+        width: 30%;
+    }
+
+    .container-body {
+        max-width: 1100px;
+        margin: 80px auto 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .add-new-adress {
+        width: 30%;
+        background-color: rgba(192, 182, 212, .4);
+        border-radius: 8px;
+        margin-bottom: 20px;
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .add-new-adress div {
+        width: 60px;
+        height: 60px;
+        background-color: #f0f0f7;
+        border-radius: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+   
+}

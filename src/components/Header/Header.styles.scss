@@ -1,0 +1,36 @@
+.Header {
+    width: 100vw;
+    height: 340px;
+    background-image: url("../../assets/BGHeader.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    .header-container {
+        width: 90%;
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+    
+    .container-header-top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 60px;
+    }
+    
+    .container-logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .container-back {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+
+}
+

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/terra-marte/static/css/main.f68e487f.css",
+    "main.js": "/terra-marte/static/js/main.2e68e207.js",
+    "static/media/BGHome.png": "/terra-marte/static/media/BGHome.b1a40a06fc61ecec0fc4.png",
+    "static/media/BGTerra.png": "/terra-marte/static/media/BGTerra.cd3a5eebd8ff52ab9fd4.png",
+    "static/media/BGHeader.png": "/terra-marte/static/media/BGHeader.fe6fb6295233a1043152.png",
+    "static/media/BGMarte.png": "/terra-marte/static/media/BGMarte.bf389fd960f0df24b538.png",
+    "static/media/SvgTerraMarte40.svg": "/terra-marte/static/media/SvgTerraMarte40.3ab46e17c19bec2eecb1751f29f8fb40.svg",
+    "static/media/SvgTerraMarte.svg": "/terra-marte/static/media/SvgTerraMarte.2207723ea8ba050f14bdf10299996e2e.svg",
+    "static/media/SvgLocation.svg": "/terra-marte/static/media/SvgLocation.303f5cabab5a0a68004beb50a22878cf.svg",
+    "static/media/SvgRocket.svg": "/terra-marte/static/media/SvgRocket.ef344acb743510f3cee29fcb856b6563.svg",
+    "static/media/SvgLocation20.svg": "/terra-marte/static/media/SvgLocation20.6808b9fdc57adbd6a23027ceb20aaabf.svg",
+    "static/media/SvgPhone.svg": "/terra-marte/static/media/SvgPhone.7abf40495e828961fdcb2ff5d845f472.svg",
+    "static/media/SvgEdit.svg": "/terra-marte/static/media/SvgEdit.71017a13860859852a74f2b21347f9a3.svg",
+    "static/media/SvgTrash.svg": "/terra-marte/static/media/SvgTrash.206526273c8da78ff4a01c7b6fae4a2d.svg",
+    "static/media/SvgClose.svg": "/terra-marte/static/media/SvgClose.71e4881c772a600cdade97393e78ec9b.svg",
+    "index.html": "/terra-marte/index.html",
+    "static/media/SvgExclamation.svg": "/terra-marte/static/media/SvgExclamation.7b312cfbf7feea20920753dd4cdafdff.svg",
+    "static/media/SvgBack.svg": "/terra-marte/static/media/SvgBack.6ee740a41950e6a2ea75090aedf179f3.svg",
+    "static/media/SvgPlus.svg": "/terra-marte/static/media/SvgPlus.b93733f090d74ac9f8dd2e244722b096.svg",
+    "main.f68e487f.css.map": "/terra-marte/static/css/main.f68e487f.css.map",
+    "main.2e68e207.js.map": "/terra-marte/static/js/main.2e68e207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68e487f.css",
+    "static/js/main.2e68e207.js"
+  ]
+}
